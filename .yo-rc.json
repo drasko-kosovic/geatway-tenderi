@@ -42,6 +42,9 @@
     "devServerPort": 4200,
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "herokuAppName": "izlaz-geatway",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
